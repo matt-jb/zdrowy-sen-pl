@@ -90,7 +90,7 @@ Jeżeli macie dzieci - dawajcie im się wyspać. Chronotypu im nie zmienicie, co
 - Jeżeli chcecie jakąś dobrą książkę w temacie, możecie zacząć od bestsellera wspomnianego wyżej Matthew Walkera: https://lubimyczytac.pl/ksiazka/4873848/dlaczego-spimy-odkrywanie-potegi-snu-i-marzen-sennych
 - Jeżeli macie dzieci, właśnie zacząłem czytać (i jak dotąd jestem pod mega wrażeniem): https://lubimyczytac.pl/ksiazka/4898594/sen-u-dzieci
 - Jeżeli potrzebujecie pomocy specjalisty z zakresu snu, jednym z bardziej znanych polskich praktyków jest Michał Skalski: https://www.znanylekarz.pl/michal-skalski/psychiatra-terapeuta-psychoterapeuta/warszawa Dzwoniłem przed chwilą do gościa i teleporady również oferuje. Nie mam z tego polecenia żadnych profitów btw.
-- Pamiętajcie - powyższe jest skierowane do ludzi zdrowych. Pojawił się na tej grupce temat osoby z bezdechem. Praktycznie każda choroba psychosomatyczna również zaburza sen. Tego nie wyleczycie sami, to jest kwestia dla Waszego lekarza. Jeżeli możecie, skonsultujcie się jeszcze ekstra ze Skalskim albo innym psychiatrą, będącym specjalistą w tej dziedzinie, żeby Wam pomógł indywidualnie.
+- Pamiętajcie - powyższe jest skierowane do ludzi zdrowych. W trakcie zbierania powyższych materiałów, pojawił się temat osoby z bezdechem. Praktycznie każda choroba psychosomatyczna również zaburza sen. Tego nie wyleczycie sami, to jest kwestia dla Waszego lekarza. Jeżeli możecie, poza swoim lekarzem skonsultujcie się jeszcze ekstra ze Skalskim albo innym psychiatrą, będącym specjalistą w tej dziedzinie, żeby Wam pomógł indywidualnie.
 
 ## Na cholerę w ogóle to wszystko wrzuciłem na GitHub?
 
