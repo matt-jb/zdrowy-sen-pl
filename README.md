@@ -33,9 +33,9 @@ Większość specjalistów od snu traktuje tę radę jako absolutnie pierwszy kr
 
 Dr Matt Walker (ekspert od snu z UC Berkeley) pewnie by powiedział, że to powinno być nawet 12 - 14 godzin. Andrew Huberman, z kolei, pije ostatnią kawę około 14:00 i zasypia bez problemu o 22:00 - 23:00. [Obaj wymienieni naukowcy omawiali to w Huberman Lab Podcast z większą ilością detali](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/). Podobnie twierdzi Kamil Lelonek, inny ekspert od ludzkiej optymalizacji.
 
-## 5) Jeżeli masz kłopoty z wybudzaniem się lub czujesz niepokój związany z tym, że nie możesz zasnąć, spróbuj skorzystać z darmowej aplikacji Reveri, która korzysta z dobrze przebadanych rozwiązań (dostępna zarówno w iStore, jak i Google Play Store).
+## 5) Jeżeli masz kłopoty z wybudzaniem się lub czujesz niepokój związany z tym, że nie możesz zasnąć, spróbuj skorzystać z darmowej aplikacji Reveri, która korzysta z dobrze przebadanych rozwiązań.
 
-Wykonuj _Reveri sleep self-hypnosis_ przynajmniej 3x w tygodniu o którejkolwiek porze dnia. Trwa to tylko 10 - 15 minut i pomoże Ci przebudować układ nerwowy w taki sposób, byś mógł zrelaksować się szybciej. Brzmi to troszkę śmiesznie, ale te rzeczy naprawdę potrafią zmienić jakość życia - jednak tylko przy regularnym stosowaniu. Na rynku jest sporo alternatyw z pokrewnej dziedziny "mindfulness", jak chociażby Headspace czy Waking Up.
+Dostępna na iPhone oraz Android. Wykonuj _Reveri sleep self-hypnosis_ przynajmniej 3x w tygodniu o którejkolwiek porze dnia. Trwa to tylko 10 - 15 minut i pomoże Ci przebudować układ nerwowy w taki sposób, byś mógł zrelaksować się szybciej. Brzmi to troszkę śmiesznie, ale te rzeczy naprawdę potrafią zmienić jakość życia - jednak tylko przy regularnym stosowaniu. Na rynku jest sporo alternatyw z pokrewnej dziedziny "mindfulness", jak chociażby Headspace czy Waking Up.
 
 ## 6) Unikaj oglądania jasnych świateł - zwłaszcza jasnych lamp sufitowych między 22:00 a 4:00 rano.
 
@@ -60,9 +60,9 @@ Wyszukaj "NSDR" na YouTube i skorzystaj z jednej z pierwszych 3 - 4 opcji, w zal
 
 \*I would start with one supplement (or none!) and then add one at a time as needed. Some people do not need any supplements, and some people like theanine but not magnesium, etc. so you have to determine what is best for you.
 
-\**Don’t take theanine if you have overly intense dreams, sleep-walk, or have night terrors.
+\*\*Don’t take theanine if you have overly intense dreams, sleep-walk, or have night terrors.
 
-\***Also, some people (~5%), get an agitated stomach from magnesium supplementation, in which case, do not take it.
+\*\*\*Also, some people (~5%), get an agitated stomach from magnesium supplementation, in which case, do not take it.
 
 ## 10) Spodziewaj się rozbudzenia około 1 godzinę przed swoim typowym czasem pójścia spać.
 
