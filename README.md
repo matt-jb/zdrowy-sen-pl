@@ -23,9 +23,9 @@ Nie, nie musisz patrzeć bezpośrednio na słońce i nigdy nie patrz na ŻADNE �
 
 Ten trick nie działa patrząc na światło przez szybę - musielibyście spędzić ok. 50x więcej czasu, by ten sam sygnał został wysłany do jąder nadskrzyżowaniowych (czyli Waszego "biologicznego zegarek").
 
-## 3) Wstawaj i kładź się spać o stałych porach. Alternatywnie: kładź się spać, gdy poczujesz senność, ale przy innych poprawnych przyzwyczajeniach to powinna być stała pora.
+## 3) Wstawaj i kładź się spać o stałych porach.
 
-Jeżeli przesiedzisz do późna i przegapisz swoje "okienko snu", narażasz się na pobudki o 3 nad ranem i trudności z ponownym zaśnięciem.
+Alternatywnie: kładź się spać, gdy poczujesz senność, ale przy innych poprawnych przyzwyczajeniach to powinna być stała pora. Jeżeli przesiedzisz do późna i przegapisz swoje "okienko snu", narażasz się na pobudki o 3 nad ranem i trudności z ponownym zaśnięciem.
 
 Większość specjalistów od snu traktuje tę radę jako absolutnie pierwszy krok do poprawienia całościowo swojego zdrowia. Drugi pierwszy tej rozpiski ma Wam pomóc w osiągnięciu właśnie tego.
 
