@@ -74,11 +74,11 @@ To zupełnie naturalna "górka" rozbudzenia. Sama przejdzie.
 
 ## 12) Twoja sypialnia powinna być chłodna i jak najciemniejsza.
 
-Można rozważyć położenie na sobie kilku koców, które zrzucisz z siebie w trakcie nocy. Twoje ciało musi obniżyć swoją temperaturę o ok. 1 - 2 stopnie, byś mógł zasnąć i się nie obudzić. Zresztą rano budzisz się wraz ze wzrostem temperatury ciała. Dlatego utrzymuj pokój chłodnym i zdejmij koce w razie potrzeby. To prostsze niż użycie chociażby klimatyzacji.
+Twoje ciało musi obniżyć swoją temperaturę o ok. 1 - 2 stopnie, byś mógł komfortowo zasnąć i się nie wybudzać. Zresztą rano budzisz się wraz ze wzrostem temperatury ciała. Dlatego utrzymuj pokój raczej chłodny. Możesz rozważyć spanie pod kilkoma kocami, które będziesz zdejmował w razie potrzeby. To prostsze niż użycie chociażby klimatyzacji, ale każda skuteczna metoda działa.
 
-## 13) Picie alkoholu zaburza Twój sen.
+## 13) Picie alkoholu i środki nasenne zaburzają Twój sen.
 
-Tak samo środki nasenne, które nie sprawiają, że zasypiasz, tylko tracisz przytomność, a to nie to samo. To było omawiane szerzej w [odcinku Huberman Lab Podcast Episode z Dr Matthwe Walkerem](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/).
+Alkohol opóźnia wejście w późne fazy snu już od bardzo niskiej dawki i w ciągu jednej nocy nie przejdziesz żadnego cyklu głębokiego snu. Z kolei środki nasenne nie sprawiają, że zasypiasz, tylko tracisz przytomność, a to nie to samo. To było omawiane szerzej w [odcinku Huberman Lab Podcast Episode z Dr Matthwe Walkerem](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/). Jeżeli pomaga Ci melatonina, to jedyny medykament ewentualnie polecany przez Walkera, ale bardziej na zasadzie placebo.
 
 ## 14) Dzieci (a właściwie każdy z nas) z czasem mają zmieniające się potrzeby w zakresie snu. Dostosuj się do nich, a nie odwrotnie.
 
