@@ -1,18 +1,18 @@
 # Jak poprawić swój sen?
 
-Wiele razy pisałem ludziom o podstawach zdrowego snu, dlatego postanowiłem zebrać wszystko do jednej copy/pasty. Są to głównie przeklejki z pierwszego newslettera Andrew Hubermana - profesora neurobiologii i optomologii ze Stanfordu, który prowadzi świetny podcast z tematami, głównie, o ludzkiej optymalizacji. Dodałem do tematu sporo wiedzy z różnych innych źródeł. Na razie część treści jest jeszcze po angielsku - będę je sukcesywnie tłumaczył.
+Wiele razy pisałem znajomym i na grupach w Internecie o podstawach zdrowego snu, dlatego postanowiłem zebrać wszystko do jednej copy/pasty. Są to głównie przeklejki z pierwszego newslettera Andrew Hubermana. Ten profesor neurobiologii i optomologii ze Stanfordu, który prowadzi świetny podcast z tematami o ludzkiej optymalizacji wysłał najlepsze zwięzłe podsumowanie, jakie czytałem. Dodałem do tematu trochę wiedzy z różnych innych źródeł.
 
-Trochę dodatkowych informacji, linków itp. wrzucę też na sam koniec.
+Trochę dodatkowych informacji, linków itp. wrzucam też na sam koniec.
 
 ## 1) Śpij 7 - 9 godzin dziennie. Codziennie.
 
-Dla optymalnego performance'u oraz zdrowia. Istnieje sporo ludzi, którzy czują się dobrze śpiąc mniej, ale poniżej 7 godzin w warunkach laboratoryjnych zawsze da się zmierzyć spadki funkcji kognitywnych, odporności i wielu innych ważnych dla człowieka czynników już od pierwszej nocy. Nie istnieje ani jeden system biologiczny w Twoim organizmie, który działa lepiej, gdy śpisz mniej. Osoby, które z powodu uwarunkowań genetycznych mogą cieszyć się relatywnie dobrym zdrowiem przy śnie poniżej 6 godzin występują w populacji na tyle rzadko, że łatwiej wygrać w totka dwa razy.
+Dla optymalnych osiągów w życiu codziennym oraz zdrowia. Istnieje sporo ludzi, którzy czują się dobrze śpiąc mniej, ale poniżej 7 godzin w warunkach laboratoryjnych zawsze da się zmierzyć spadki funkcji kognitywnych, odporności i wielu innych ważnych dla człowieka czynników już od pierwszej nocy. Nie istnieje ani jeden system biologiczny w Twoim organizmie, który działa lepiej, gdy śpisz mniej. Osoby, które z powodu uwarunkowań genetycznych mogą cieszyć się relatywnie dobrym zdrowiem przy śnie poniżej 6 godzin występują w populacji na tyle rzadko, że łatwiej wygrać w totka dwa razy.
 
 ## 2) Wyjdź na słońce 30 - 60 minut po przebudzeniu.
 
 Powtórz to późnym popołudniem, przed zachodem słońca. Jeśli obudzisz się zanim wyjdzie słońce i chcesz lub musisz się rozbudzić, skorzystaj ze sztucznego światła i wyjdź na zewnątrz, gdy wzejdzie słońce.
 
-- W jasne, bezchmurne dni: oglądaj poranne i popołudniowe słońce przez 10 min.;
+- W jasne, bezchmurne dni: wyjdź na poranne i popołudniowe słońce przez 10 min.;
 - w pochmurne dni: 20 min.;
 - w bardzo pochmurne dni: 30 - 60 min..
 - Jeśli mieszkasz w miejscu o bardzo minimalnym oświetleniu, rozważ sztuczne źródło światła. Dobrze sprawdzają się tzw. [ringlighty](https://gyazo.com/94067d94e0bfb82c9dfa223801c06330), czyli koliste światło LED-owe nakładane na telefon lub aparat.
@@ -21,7 +21,7 @@ W miarę możliwości nie korzystaj z okularów przeciwsłonecznych. Natomiast s
 
 Nie, nie musisz patrzeć bezpośrednio na słońce i nigdy nie patrz na ŻADNE światło tak jasne, że widok jest bolesny! Ale nie oczekuj również, że nosząc kapelusz z szerokim rondem, okulary przeciwsłoneczne i cały czas pozostając w cieniu "rozbudzisz" swój zegar dobowy.
 
-Ten trick nie działa patrząc na światło przez szybę - musielibyście spędzić ok. 50x więcej czasu, by ten sam sygnał został wysłany do jąder nadskrzyżowaniowych (czyli Waszego "biologicznego zegarek").
+Ten trick nie działa patrząc na światło przez szybę - musielibyście spędzić ok. 50x więcej czasu, by ten sam sygnał został wysłany do jąder nadskrzyżowaniowych (czyli Waszego "biologicznego zegarka").
 
 ## 3) Wstawaj i kładź się spać o stałych porach.
 
@@ -31,7 +31,7 @@ Większość specjalistów od snu traktuje tę radę jako absolutnie pierwszy kr
 
 ## 4) Unikaj kofeiny na 8 - 10 godzin przed snem.
 
-Dr Matt Walker (ekspert od snu z UC Berkeley) pewnie by powiedział, że to powinno być nawet 12 - 14 godzin. Andrew Huberman, z kolei, pije ostatnią kawę około 14:00 i zasypia bez problemu o 22:00 - 23:00. [Obaj wymienieni naukowcy omawiali to w Huberman Lab Podcast z większą ilością detali](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/). Podobnie twierdzi Kamil Lelonek, inny ekspert od ludzkiej optymalizacji.
+Dr Matt Walker (ekspert od snu z UC Berkeley) pewnie by powiedział, że to powinno być nawet 12 - 14 godzin. Andrew Huberman, z kolei, pije ostatnią kawę około 14:00 i zasypia bez problemu o 22:00 - 23:00. [Obaj wymienieni naukowcy omawiali to w Huberman Lab Podcast z większą ilością detali](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/). Podobnie twierdzi Kamil Lelonek, inny ekspert od ludzkiej optymalizacji, który dla efektu nootropowego zaleca nie pić więcej niż 2 kawy dziennie (choć osobiście nigdy nie mogłem się oprzeć pysznej kawie).
 
 ## 5) Jeżeli masz kłopoty z wybudzaniem się lub czujesz niepokój związany z tym, że nie możesz zasnąć, spróbuj skorzystać z darmowej aplikacji Reveri, która korzysta z dobrze przebadanych rozwiązań.
 
@@ -49,34 +49,38 @@ Większość z nas uwielbia drzemki. Ale co za dużo, to niezdrowo. Wiąże się
 
 Wyszukaj "NSDR" na YouTube i skorzystaj z jednej z pierwszych 3 - 4 opcji, w zależności od tego jaki głos oraz czas preferujesz. Ewentualnie wyszukaj hasło "Yoga Nidra" - tego są setki do wyboru.
 
-## 9) Możesz rozważyć suplementację na 30 - 60 min. przed snem:
+## 9) Możesz rozważyć suplementację na 30 - 60 min. przed snem.
 
-(Osobiście, poza magnezem, nie stosuję tych supli i nie sprawdzałem czy są dostępne w Polsce:)
+Osobiście, poza magnezem, nie stosuję tych supli, więc za ich skuteczność pozostaje dla mnie nieznana. Z tego co sprawdzałem, da się je kupić w Polsce. Poniższa lista pochodzi od Hubermana:
 
-- 145 mg Magnesium Threonate or 200 mg Magnesium Bisglycinate
-- 50 mg Apigenin (Swanson is the only source I know of; we have no affiliation to Swanson)
-- 100-400 mg Theanine
-- (3-4 nights per week I also take 2 g of Glycine and 100 mg GABA.)
+- 145 mg treonianu magnezu lub 200 mg bisglicynianu magnezu.
+- 50 mg apigeniny.
+- 100 - 400 mg teaniny.
+- 3 - 4 noce w tygodniu można też brać 2 g of glyciny oraz 100 mg GABA.
 
-\*I would start with one supplement (or none!) and then add one at a time as needed. Some people do not need any supplements, and some people like theanine but not magnesium, etc. so you have to determine what is best for you.
+\*Zaleca się rozpoczęcie od jednego (lub zera) suplementów i dodawania kolejnych po dłuższym czasie. Niektórzy w ogóle nie muszą się suplementować, inni lubią teaninę, ale nie magnez itd.. Musisz postanowić co jest najlepsze dla Ciebie.
 
-\*\*Don’t take theanine if you have overly intense dreams, sleep-walk, or have night terrors.
+\*\*Nie bierz teaniny, o ile nie lubisz intensywnych snów, lunatykujesz lub miewasz koszmary.
 
-\*\*\*Also, some people (~5%), get an agitated stomach from magnesium supplementation, in which case, do not take it.
+\*\*\*Niektórzy ludzie (~5%) mają kłopoty żołądkowe przez magnez. W takim wypadku - nie bierz go.
 
-## 10) Spodziewaj się rozbudzenia około 1 godzinę przed swoim typowym czasem pójścia spać.
+## 10) Zanim sięgniesz po suplementację, zacznij ćwiczyć.
+
+Ćwiczenia fizyczne pomagają łatwiej zasnąć i mają mnóstwo innych korzyści zdrowotnych.
+
+## 11) Spodziewaj się rozbudzenia około 1 godzinę przed swoim typowym czasem pójścia spać.
 
 To zupełnie naturalna "górka" rozbudzenia. Sama przejdzie.
 
-## 11) Twoja sypialnia powinna być chłodna i jak najciemniejsza.
+## 12) Twoja sypialnia powinna być chłodna i jak najciemniejsza.
 
 Można rozważyć położenie na sobie kilku koców, które zrzucisz z siebie w trakcie nocy. Twoje ciało musi obniżyć swoją temperaturę o ok. 1 - 2 stopnie, byś mógł zasnąć i się nie obudzić. Zresztą rano budzisz się wraz ze wzrostem temperatury ciała. Dlatego utrzymuj pokój chłodnym i zdejmij koce w razie potrzeby. To prostsze niż użycie chociażby klimatyzacji.
 
-## 12) Picie alkoholu zaburza Twój sen.
+## 13) Picie alkoholu zaburza Twój sen.
 
 Tak samo środki nasenne, które nie sprawiają, że zasypiasz, tylko tracisz przytomność, a to nie to samo. To było omawiane szerzej w [odcinku Huberman Lab Podcast Episode z Dr Matthwe Walkerem](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/).
 
-## 13) Dzieci (a właściwie każdy z nas) z czasem mają zmieniające się potrzeby w zakresie snu. Dostosuj się do nich, a nie odwrotnie.
+## 14) Dzieci (a właściwie każdy z nas) z czasem mają zmieniające się potrzeby w zakresie snu. Dostosuj się do nich, a nie odwrotnie.
 
 Możemy być "nocnymi markami" w wieku 15 lat, ale z wiekiem stajemy się "rannymi ptaszkami". Lub potrzebujemy 7 godzin na dobę latem i 8 - 9 godzin w zimie. To się będzie zmieniać.
 
@@ -85,6 +89,7 @@ Sam mam małe dziecko i jeśli kiedykolwiek w przyszłości będzie miało lekcj
 Jeżeli macie dzieci - dawajcie im się wyspać. Chronotypu im nie zmienicie, co najwyżej sam im się naturalnie zmieni z czasem. Fajnym tipem dla nich jest zapalić im światło w pokoju lub odsłonić zasłony (ofc bez budzenia) na 1 godzinę przed typową porą ich wstawania. To pozwala osiągnąć bardzo podobny efekt jak w punkcie pierwszym tej rozpiski i ułatwi im zasypianie wieczorem.
 
 ## Dodatkowe informacje:
+
 - www podcastu Hubermana, który szczerze polecam: https://hubermanlab.com/
 - Naprawdę fajnie się ogląda to wprowadzenie do tematu zdrowego snu: https://www.youtube.com/watch?v=aXflBZXAucQ
 - Jeżeli chcecie jakąś dobrą książkę w temacie, możecie zacząć od bestsellera wspomnianego wyżej Matthew Walkera: https://lubimyczytac.pl/ksiazka/4873848/dlaczego-spimy-odkrywanie-potegi-snu-i-marzen-sennych
