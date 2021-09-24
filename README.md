@@ -78,7 +78,7 @@ Twoje ciało musi obniżyć swoją temperaturę o ok. 1 - 2 stopnie, byś mógł
 
 ## 13) Picie alkoholu i środki nasenne zaburzają Twój sen.
 
-Alkohol opóźnia wejście w późne fazy snu już od bardzo niskiej dawki i w ciągu jednej nocy nie przejdziesz żadnego cyklu głębokiego snu. Z kolei środki nasenne nie sprawiają, że zasypiasz, tylko tracisz przytomność, a to nie to samo. To było omawiane szerzej w [odcinku Huberman Lab Podcast Episode z Dr Matthwe Walkerem](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/). Jeżeli pomaga Ci melatonina, to jedyny medykament ewentualnie polecany przez Walkera, ale bardziej na zasadzie placebo.
+Alkohol opóźnia wejście w późne fazy snu już od bardzo niskiej dawki i w ciągu jednej nocy nie przejdziesz żadnego cyklu głębokiego snu. Z kolei środki nasenne nie sprawiają, że zasypiasz, tylko tracisz przytomność, a to nie to samo. To było omawiane szerzej w [odcinku Huberman Lab Podcast Episode z Dr Matthew Walkerem](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/). Jeżeli pomaga Ci melatonina, to jedyny medykament ewentualnie polecany przez Walkera, ale bardziej na zasadzie placebo.
 
 ## 14) Dzieci (a właściwie każdy z nas) z czasem mają zmieniające się potrzeby w zakresie snu. Dostosuj się do nich, a nie odwrotnie.
 
