@@ -1,6 +1,6 @@
 # Jak poprawić swój sen?
 
-Wiele razy pisałem znajomym i na grupach w Internecie o podstawach zdrowego snu, dlatego postanowiłem zebrać wszystko do jednej copy/pasty. Są to głównie przeklejki z pierwszego newslettera Andrew Hubermana. Ten profesor neurobiologii i optomologii ze Stanfordu, który prowadzi świetny podcast z tematami o ludzkiej optymalizacji wysłał najlepsze zwięzłe podsumowanie, jakie czytałem. Dodałem do tematu trochę wiedzy z różnych innych źródeł.
+Wiele razy pisałem znajomym i na grupach w Internecie o podstawach zdrowego snu, dlatego postanowiłem zebrać wszystko do jednej copy/pasty. Są to głównie przeklejki z pierwszego newslettera Andrew Hubermana. Ten profesor neurobiologii i optomologii ze Stanfordu, który prowadzi świetny podcast z tematami o ludzkiej optymalizacji wysłał najlepsze zwięzłe podsumowanie, jakie czytałem. Dodałem do tematu sporo wiedzy z różnych innych źródeł.
 
 Trochę dodatkowych informacji, linków itp. wrzucam też na sam koniec.
 
