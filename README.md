@@ -41,7 +41,7 @@ Dostępna na iPhone oraz Android. Wykonuj _Reveri sleep self-hypnosis_ przynajmn
 
 Trzymaj się tej prostej zasady: korzystaj ze sztucznego światła jedynie na tyle, by móc bezpiecznie się poruszać w nocy. Blokery niebieskiego światła mogą trochę pomóc*, ale nie zastąpią przygaszenia źródła światła. Jakiekolwiek jasne światło w nocy, nie tylko niebieskie, negatywnie wpływa na Twój cykl dobowy. Wyjątkiem są światła świec, księżyca, ogniska oraz kominka. Pracownikom zmianowym bardzo polecam przesłuchanie [odcinka Huberman Lab Podcast o ich sytuacji](https://hubermanlab.com/find-your-temperature-minimum-to-defeat-jetlag-shift-work-and-sleeplessness/). To samo z młodymi rodzicami, ludźmi z jetlagiem oraz innymi, którzy po prostu nie mają jak zdrowo i spokojnie spać w nocy.
 
-* - polecam unikać blokerów niebieskiego światła także w ciągu dnia. Pod względem fizjologicznym one bardziej szkodzą niż pomagają.
+\* polecam unikać blokerów niebieskiego światła także w ciągu dnia. Pod względem fizjologicznym one bardziej szkodzą niż pomagają.
 
 ## 7) Ogranicz drzemki w ciągu dnia do mniej niż 90 minut lub w ogóle ich nie rób.
 
