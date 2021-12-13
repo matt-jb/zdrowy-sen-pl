@@ -27,27 +27,29 @@ Ten trick nie działa patrząc na światło przez szybę - musielibyście spędz
 
 Alternatywnie: kładź się spać, gdy poczujesz senność, ale przy innych poprawnych przyzwyczajeniach to powinna być stała pora. Jeżeli przesiedzisz do późna i przegapisz swoje "okienko snu", narażasz się na pobudki o 3 nad ranem i trudności z ponownym zaśnięciem.
 
-Większość specjalistów od snu traktuje tę radę jako absolutnie pierwszy krok do poprawienia całościowo swojego zdrowia. Drugi pierwszy tej rozpiski ma Wam pomóc w osiągnięciu właśnie tego.
+Większość specjalistów od snu traktuje tę radę jako absolutnie pierwszy krok do poprawienia całościowo swojego zdrowia. Rada z drugiego punktu tej rozpiski "uruchamia Wasz zegar biologiczny". Jeżeli nie będziecie mu przeszkadzać w pracy (np. poprzez nadużywanie kawy lub jasnego światła wieczorem), po ok. 16 godzinach od wstania on sprawi, że poczujecie się senni.
 
 ## 4) Unikaj kofeiny na 8 - 10 godzin przed snem.
 
-Dr Matt Walker (ekspert od snu z UC Berkeley) pewnie by powiedział, że to powinno być nawet 12 - 14 godzin. Andrew Huberman, z kolei, pije ostatnią kawę około 14:00 i zasypia bez problemu o 22:00 - 23:00. [Obaj wymienieni naukowcy omawiali to w Huberman Lab Podcast z większą ilością detali](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/). Podobnie twierdzi Kamil Lelonek, inny ekspert od ludzkiej optymalizacji, który dla efektu nootropowego zaleca nie pić więcej niż 2 kawy dziennie (choć osobiście nigdy nie mogłem się oprzeć pysznej kawie).
+Dr Matt Walker (ekspert od snu z UC Berkeley) pewnie by powiedział, że to powinno być nawet 12 - 14 godzin. Andrew Huberman, z kolei, nie jest aż tak restryjcyjny, ale późnymi popołudniami kawy nie pija. Podobnie twierdzi Kamil Lelonek, inny ekspert od ludzkiej optymalizacji, który dla efektu nootropowego zaleca nie pić więcej niż 2 kawy dziennie (choć osobiście nigdy nie mogłem się oprzeć pysznej kawie).
 
 ## 5) Jeżeli masz kłopoty z wybudzaniem się lub czujesz niepokój związany z tym, że nie możesz zasnąć, spróbuj skorzystać z darmowej aplikacji Reveri, która korzysta z dobrze przebadanych rozwiązań.
 
-Dostępna na iPhone oraz Android. Wykonuj _Reveri sleep self-hypnosis_ przynajmniej 3x w tygodniu o którejkolwiek porze dnia. Trwa to tylko 10 - 15 minut i pomoże Ci przebudować układ nerwowy w taki sposób, byś mógł zrelaksować się szybciej. Brzmi to troszkę śmiesznie, ale te rzeczy naprawdę potrafią zmienić jakość życia - jednak tylko przy regularnym stosowaniu. Na rynku jest sporo alternatyw z pokrewnej dziedziny "mindfulness", jak chociażby Headspace czy Waking Up.
+Dostępna na iPhone oraz Android. Wykonuj _Reveri sleep self-hypnosis_ przynajmniej 3x w tygodniu o którejkolwiek porze dnia. Trwa to tylko 10 - 15 minut i pomoże Ci przebudować układ nerwowy w taki sposób, byś mógł zrelaksować się szybciej. Brzmi to troszkę śmiesznie, ale te rzeczy naprawdę potrafią zmienić jakość życia, nie tylko jeśli chodzi o sen. Działają jednak tylko przy regularnym stosowaniu. Na rynku jest sporo alternatyw z pokrewnej dziedziny "mindfulness", jak chociażby Headspace czy Waking Up.
 
 ## 6) Unikaj oglądania jasnych świateł - zwłaszcza jasnych lamp sufitowych między 22:00 a 4:00 rano.
 
-Trzymaj się tej prostej zasady: korzystaj ze sztucznego światła jedynie na tyle, by móc bezpiecznie się poruszać w nocy. Blokery niebieskiego światła mogą trochę pomóc, ale nie zastąpią przygaszenia źródła światła. Jakiekolwiek jasne światło w nocy, nie tylko niebieskie, negatywnie wpływa na Twój cykl dobowy. Wyjątkiem są światła świec, księżyca, ogniska oraz kominka. Pracownikom zmianowym bardzo polecam przesłuchanie [odcinka Huberman Lab Podcast o ich sytuacji](https://hubermanlab.com/find-your-temperature-minimum-to-defeat-jetlag-shift-work-and-sleeplessness/). To samo z młodymi rodzicami, ludźmi z jetlagiem oraz innymi, którzy po prostu nie mają jak zdrowo i spokojnie spać w nocy.
+Trzymaj się tej prostej zasady: korzystaj ze sztucznego światła jedynie na tyle, by móc bezpiecznie się poruszać w nocy. Blokery niebieskiego światła mogą trochę pomóc*, ale nie zastąpią przygaszenia źródła światła. Jakiekolwiek jasne światło w nocy, nie tylko niebieskie, negatywnie wpływa na Twój cykl dobowy. Wyjątkiem są światła świec, księżyca, ogniska oraz kominka. Pracownikom zmianowym bardzo polecam przesłuchanie [odcinka Huberman Lab Podcast o ich sytuacji](https://hubermanlab.com/find-your-temperature-minimum-to-defeat-jetlag-shift-work-and-sleeplessness/). To samo z młodymi rodzicami, ludźmi z jetlagiem oraz innymi, którzy po prostu nie mają jak zdrowo i spokojnie spać w nocy.
+
+* - polecam unikać blokerów niebieskiego światła także w ciągu dnia. Pod względem fizjologicznym one bardziej szkodzą niż pomagają.
 
 ## 7) Ogranicz drzemki w ciągu dnia do mniej niż 90 minut lub w ogóle ich nie rób.
 
 Większość z nas uwielbia drzemki. Ale co za dużo, to niezdrowo. Wiąże się to z tym, że nasze ciało działa nie tylko w cyklach dobowych, ale też w cyklach 90-minutowych.
 
-## 8) Jeśli budzisz się w środku nocy (co jest zupełnie normalne, gdy robi się to jedynie raz czy dwa każdej nocy), ale nie możesz ponownie zasnąć, rozważ wykonanie protokołu NSDR.
+## 8) Jeśli budzisz się w środku nocy (co jest zupełnie normalne, gdy robi się to jedynie raz czy dwa każdej nocy), ale nie możesz ponownie zasnąć, rozważ wykonanie protokołu NSDR (ang. Non-Sleep Deep Rest).
 
-Wyszukaj "NSDR" na YouTube i skorzystaj z jednej z pierwszych 3 - 4 opcji, w zależności od tego jaki głos oraz czas preferujesz. Ewentualnie wyszukaj hasło "Yoga Nidra" - tego są setki do wyboru.
+Wyszukaj "NSDR" na YouTube i skorzystaj z jednej z pierwszych 3 - 4 opcji, w zależności od tego jaki głos oraz czas preferujesz. Ewentualnie wyszukaj hasło "Yoga Nidra" - tego są setki do wyboru. NSDR to pewna nazwa zbiorcza - wspomniana wcześniej aplikacja Reveri to w praktyce także zbiór protokołów NSDR.
 
 ## 9) Możesz rozważyć suplementację na 30 - 60 min. przed snem.
 
@@ -78,7 +80,9 @@ Twoje ciało musi obniżyć swoją temperaturę o ok. 1 - 2 stopnie, byś mógł
 
 ## 13) Picie alkoholu i środki nasenne zaburzają Twój sen.
 
-Alkohol opóźnia wejście w późne fazy snu już od bardzo niskiej dawki i w ciągu jednej nocy nie przejdziesz żadnego cyklu głębokiego snu. Z kolei środki nasenne nie sprawiają, że zasypiasz, tylko tracisz przytomność, a to nie to samo. To było omawiane szerzej w [odcinku Huberman Lab Podcast Episode z Dr Matthew Walkerem](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/). Jeżeli pomaga Ci melatonina, to jedyny medykament ewentualnie polecany przez Walkera, ale bardziej na zasadzie placebo.
+Alkohol opóźnia wejście w późne fazy snu już od bardzo niskiej dawki i w ciągu jednej nocy nie przejdziesz żadnego cyklu głębokiego snu. Z kolei środki nasenne nie sprawiają, że zasypiasz, tylko tracisz przytomność, a to nie to samo. To było omawiane szerzej w [odcinku Huberman Lab Podcast Episode z Dr Matthew Walkerem](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/).
+
+Jeżeli pomaga Ci melatonina, to jedyny medykament ewentualnie polecany przez Walkera, ale bardziej na zasadzie placebo. Wyjątkiem są osoby po 60 r. ż., które jako jedyne wykazują na ogół korzyści ze stosowania melatoniny. Najprawdopodobniej ma to związek z tym, że szyszynka wraz z wiekiem kalcyfikuje się, ale jest to obecnie jeszcze przedmiotem badań.
 
 ## 14) Dzieci (a właściwie każdy z nas) z czasem mają zmieniające się potrzeby w zakresie snu. Dostosuj się do nich, a nie odwrotnie.
 
@@ -94,14 +98,14 @@ Jeżeli macie dzieci - dawajcie im się wyspać. Chronotypu im nie zmienicie, co
 - Naprawdę fajnie się ogląda to wprowadzenie do tematu zdrowego snu: https://www.youtube.com/watch?v=aXflBZXAucQ
 - Jeżeli chcecie jakąś dobrą książkę w temacie, możecie zacząć od bestsellera wspomnianego wyżej Matthew Walkera: https://lubimyczytac.pl/ksiazka/4873848/dlaczego-spimy-odkrywanie-potegi-snu-i-marzen-sennych
 - Jeżeli macie dzieci, właśnie zacząłem czytać (i jak dotąd jestem pod mega wrażeniem): https://lubimyczytac.pl/ksiazka/4898594/sen-u-dzieci
-- Jeżeli potrzebujecie pomocy specjalisty z zakresu snu, jednym z bardziej znanych polskich praktyków jest Michał Skalski: https://www.znanylekarz.pl/michal-skalski/psychiatra-terapeuta-psychoterapeuta/warszawa Dzwoniłem przed chwilą do gościa i teleporady również oferuje. Nie mam z tego polecenia żadnych profitów btw.
-- Pamiętajcie - powyższe jest skierowane do ludzi zdrowych. W trakcie zbierania powyższych materiałów, pojawił się temat osoby z bezdechem. Praktycznie każda choroba psychosomatyczna również zaburza sen. Tego nie wyleczycie sami, to jest kwestia dla Waszego lekarza. Jeżeli możecie, poza swoim lekarzem skonsultujcie się jeszcze ekstra ze Skalskim albo innym psychiatrą, będącym specjalistą w tej dziedzinie, żeby Wam pomógł indywidualnie.
+- Jeżeli potrzebujecie pomocy specjalisty z zakresu snu, jednym z bardziej znanych polskich praktyków jest Michał Skalski: https://www.znanylekarz.pl/michal-skalski/psychiatra-terapeuta-psychoterapeuta/warszawa Dzwoniłem przed chwilą (09.2021) do gościa i teleporady również oferuje. Nie mam z tego polecenia żadnych profitów btw.
+- Pamiętajcie - powyższe rady są skierowane do ludzi zdrowych. W trakcie zbierania powyższych materiałów, pojawił się temat osoby z bezdechem. Praktycznie każda choroba psychosomatyczna również zaburza sen. Tego nie wyleczycie sami, to jest kwestia dla Waszego lekarza. Jeżeli możecie, poza swoim lekarzem skonsultujcie się jeszcze ekstra ze Skalskim albo innym psychiatrą, będącym specjalistą w tej dziedzinie, żeby Wam pomógł indywidualnie.
 
 ## Na cholerę w ogóle to wszystko wrzuciłem na GitHub?
 
-Bo to najważniejsza i najbardziej niedoceniana rzecz w pracy umysłowej.
+Bo sen to najważniejsza i najbardziej niedoceniana rzecz w pracy umysłowej.
 
-Uważam temat za moje osobiste odkrycie roku 2020 - kilka drobnych zmian mocno poprawiło mi jakość życia. Zastrzegam, że w temacie jestem amatorem, nie żadnym biohackerem (nienawidzę tej nazwy btw) i nie mam też wykształcenia medycznego. Jedynie prostu przesłuchałem na temat fizjologii pewnie już z 500 h podcastów czołowych naukowców oraz sporo googlowałem abstractów badań.
+Zastrzegam, że w temacie jestem amatorem, nie żadnym biohackerem (nienawidzę tej nazwy btw) i nie mam też wykształcenia medycznego. Jedynie prostu przesłuchałem na temat fizjologii pewnie już z 500 h podcastów czołowych naukowców oraz sporo googlowałem abstractów badań.
 
 ### Na razie to wszystko.
 
